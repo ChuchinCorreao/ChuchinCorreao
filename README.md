@@ -1,3 +1,8 @@
+name=<Action Name>
+ 	
+| category=<Action Category>
+ 	
+| category=<Action Category>
 
 - 👋 Hi, I’m @ChuchinCorreao
 - 👀 I’m interested in ...
